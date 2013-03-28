@@ -1,4 +1,4 @@
 ckan-buildout
 =============
 
-Buildout script for ckan platform
+Buildout script for the ckan platform
